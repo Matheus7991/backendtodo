@@ -1,16 +1,21 @@
 {
-  "posts":[
+  "user": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "email": "bandeira@gmail.com",
+      "user": "matheus",
+      "id": 1
+    },
+    {
+      "email": "maic@gmail.com",
+      "user": "maicon",
+      "id": 2
     }
   ],
-  "comments" : [
+  "todo": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "completed": false,
+      "title": "teste1",
+      "id": 2
     }
   ]
 }
